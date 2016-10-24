@@ -329,7 +329,7 @@ header .hero img {
   padding:4em 0 6em;
   text-align: center;
  }
- 
+
 .trial p {
   font-size: 22px;
   line-height: 26px;
@@ -399,7 +399,11 @@ footer .logo{
     padding: 2em 0 2em 1.5em;
   }
 }
-/* DASHBOARD */
+
+
+
+
+/* --------------DASHBOARD---------------------- */
 .dashboard {
   background:#F7F7F7;
 }
@@ -663,3 +667,4 @@ footer .logo{
   line-height: 18px;
   margin:5px 0 0;
 }
+
